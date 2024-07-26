@@ -1,6 +1,6 @@
 const Button = props => {
   const {text, color} = props
-  return <button className={color}>{text}</button>
+  return <button className={`button-${color}`}>{text}</button>
 }
 
 const element = (

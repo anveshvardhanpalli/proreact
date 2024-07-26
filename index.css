@@ -3,17 +3,16 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
 }
-.like {
+.button-like {
   background-color: #eab308;
   color: #ffffff;
 }
-.comment {
+.button-comment {
   color: #323f4b;
   background-color: #ffffff;
 }
-.share {
+.button-share {
   color: #ffffff;
   background-color: #1d4ed8;
 }
